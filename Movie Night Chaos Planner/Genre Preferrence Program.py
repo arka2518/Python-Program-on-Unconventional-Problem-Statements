@@ -16,13 +16,14 @@ print(f"Your friends are: {user_friends}")
 
 for friend in user_friends:
     if friend not in Friends:
-        print(f"{friend} is not in the friends list.")
+        print(f"No data of genre available for {friend}.")
     for genre, friends in Preferrence.items():
         if friend in friends:
             print(f"{friend} likes {genre} genre movies.")
 
 #MAKE SURE YOU TAKE THE INPUT LIKE: Harsh,Jay,Shantanu | THERE SHOULDN'T BE ANY SPACES BETWEEN THE NAMES
 #IF YOU TYPE IT LIKE: Harsh, Jay, Shantanu | IT WOULD ONLY GIVE OUTPUT FOR THE FIRST NAME i.e. 'Harsh'
+
 
 
 
