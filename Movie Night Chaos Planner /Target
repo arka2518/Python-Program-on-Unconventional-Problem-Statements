@@ -1,7 +1,0 @@
-We have to create:
-A tuple of fixed movie genres
-A list of friends
-A dictionary where key : value pairs will be genre : friends in the preferred genres
-
-Task:
-Suggest genres according to the friends present with the user
