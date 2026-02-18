@@ -1,5 +1,5 @@
 Genre = ('Science-fiction', 'Horror', 'Superhero', 'Action', 'Adventure', 'Crime-Thriller', 'Comedy', 'Drama', 'Romance', 'Rom-Com', 'Psychological-Thriller')
-Friends =['Arka', 'Satish', 'Lakshya', 'Avdoot', 'Swaroop', 'Reetul', 'Shaswhat', 'Spondan', 'Sarthak', 'Jay', 'Pratik', 'Anant', 'Harsh', 'Saptadipa', 'Mahi', 'Shantanu', 'Shalabh', 'Shivanee']
+Friends = ['Arka', 'Satish', 'Lakshya', 'Avdoot', 'Swaroop', 'Reetul', 'Shaswhat', 'Spondan', 'Sarthak', 'Jay', 'Pratik', 'Anant', 'Harsh', 'Saptadipa', 'Mahi', 'Shantanu', 'Shalabh', 'Shivanee']
 Preference = {"Science-fiction" : ['Satish', 'Arka', 'Spondan', 'Swaroop'],
               "Horror" : ['Lakshya', 'Arka'],
               "Superhero" : ['Arka', 'Jay', 'Spondan', 'Satish', 'Lakshya'],
